@@ -1,0 +1,7 @@
+mysqlinstancialiceo
+--------------------------
+host: mysqlinstliceopatria.c8pnflsni9gj.us-east-1.rds.amazonaws.com
+port: 3306
+user: crueda
+pass: Jdjgrl2010$;
+bd: dbprueba

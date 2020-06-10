@@ -1,0 +1,4 @@
+URL: https://cpanel-box2189.bluehost.com/cpsess8532535015/3rdparty/phpMyAdmin/index.php
+BD: sevicolo_chrueda
+USU: sevicolo_chrueda
+PASS: #l1Ce0p@tR14#

@@ -1,0 +1,1 @@
+ssh -i [your-private-key].pem bitnami@35.175.105.80
