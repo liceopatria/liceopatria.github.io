@@ -1,0 +1,7 @@
+-----------------------------------
+ Instancia Amazon Linux 2 - LAMP
+-----------------------------------
+ID: ec2-54-82-110-248.compute-1.amazonaws.com
+Public DNS: ec2-54-82-110-248.compute-1.amazonaws.com
+Public IPv4: 54.82.110.248
+nombre de usuario es: ec2-user
